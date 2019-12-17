@@ -1,5 +1,5 @@
 """
-Snapchat-based augmented reality OpenCV moustache overlay
+Original: Snapchat-based augmented reality OpenCV moustache overlay
 """
 
 # Import required packages:
