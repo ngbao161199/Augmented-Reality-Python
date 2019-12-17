@@ -17,5 +17,5 @@ Example:
 ```
 # cd to your project file
 # use this command
-python snap.py
+python test.py
 ```
