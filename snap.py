@@ -1,5 +1,5 @@
 """
-Snapchat-based augmented reality OpenCV glasses overlay
+Original: Snapchat-based augmented reality OpenCV glasses overlay
 """
 
 # Import required packages:
