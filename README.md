@@ -8,7 +8,7 @@
 - opencv-contrib-python: pip install opencv-contrib-python==4.0.0.21
 - numpy: pip install numpy==1.16.1
 - dlib (It will require Cmake also, remember to check environment path carefully when having errors)
-- PySimpleGUI
+- [PySimpleGUI](https://pysimplegui.readthedocs.io/en/latest/)
 - **shape_predictor_68_face_landmarks.dat** , get it from [here](http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2)
 
 # How to run:
